@@ -32,7 +32,4 @@ ix.	If last model trained
      a.End
 
 x.	Else: go to step Iv
-
-
-
-
+![](Images/MODEL1.png)
