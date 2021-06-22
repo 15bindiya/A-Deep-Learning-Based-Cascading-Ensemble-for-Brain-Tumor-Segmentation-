@@ -58,3 +58,5 @@ We have trained our model sequentially. First, we have trained a model, then bas
 
 Accuracy and Loss:
 First model is trained with 963 samples.  The lass and accuracy from each epoch are plotted in the graph.  From the figure 1 we can see that, our validation loss fluctuate in between 13 to 14 at the end of the epochs but overall training loss constantly decreasing and ends in between 11 to 12. For accuracy from figure 2, we can see that training and validation accuracy settles down at the end of the epochs in between 96.5% to 97%.  This model has almost 50% of its sample with loss below 10%. Second model is trained with 500 samples for which previous models had lost more than 10%. Accuracy and loss pattern are more stable for this model, but the final result ends up within the same domain as model 1, fig 3 &4. Third model is trained with 277 samples for which previous models had loss more than 10%. ends up within the same domain as model 1 and 2 here, fig 4,5. From the graphs it is apparent that, none of the model overfitted.
+
+![](Images/MODEL1_TRAIN_VS_TEST_LOSS.png) ![](Images/MODEL1_TRAIN_VS_TEST_ACC.png)
