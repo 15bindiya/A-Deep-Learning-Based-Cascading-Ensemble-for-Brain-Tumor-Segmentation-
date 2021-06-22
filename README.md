@@ -62,3 +62,4 @@ First model is trained with 963 samples.  The lass and accuracy from each epoch 
 ![](Images/MODEL1_TRAIN_VS_TEST_LOSS.png) ![](Images/MODEL1_TRAIN_VS_TEST_ACC.png)
 ![](Images/MODEL2_AND_3.png)
 ![](Images/COMBINED_PERF.png)
+![](Images/UNET_LOSS_AND_ACC.png)
